@@ -1,0 +1,20 @@
+# Binaries and executables
+*.exe
+*.out
+*.app
+a.out
+*.o
+*.obj
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+bin/
+cmake-build-*/
